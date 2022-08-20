@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "dinnerfinder",
+    "slug": "dinnerfinder",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
